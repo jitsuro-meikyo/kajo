@@ -13,6 +13,9 @@ yhteystiedot (osoitteet, sähköpostiosoitteet, facebook-linkit)
 	-helsinki
 	-turku
 	-lappeenranta
+	
+turku 
+	-lisätiedot, esim zazenkain aikataulu
 
 in english
 	kaipaa päivitystä, ehkäpä lyhyet vastaukset kysymyksiin: 
@@ -29,22 +32,58 @@ kyssärit
 		
 		Kajo Zendo on pieni ryhmä omistautuneita harjoittajia, jotka asuvat eri puolilla. Tällä hetkellä viikottaisia tapaamisia järjestetään Helsingissä ja 
 		Turussa. Kuukausittain järjestetään päivän mittaisia harjoituksia (ks. zazenkai) ja vuosittain kaksi muutaman päivän mittaista retriittiä 
-		(ks.sesshin).
+		(ks.sesshin). Kajo Zendossa harjoitetaan myös netin välityksellä (ks. Turku-alasivu).
 		
 		Harjoituksen ytimessä on zazen japanilaisen soto-koulukunnan tyyliin. Harjoitus perustuu mestari Dogenin opetuksiin. Soto-perinteen zazenin muoto on 
 		“shikantaza”, joka tarkoittaa kirjaimellisesti ”vain istumista”. Se on todellakin vain pelkkää seinään päin selkä suorana istumista, jossa ei tehdä,
 		eikä tavoitella mitään.
 		
 	-tarjoatteko johdantoja tai muuta opastusta?
-		Tällä hetkellä emme tarjoa johdantoja, mutta niitä on suunnitteilla. Voit saada opastuksen myös tulemalla paikalle viikkoistumiseen (torstaisin). Jos
-		olet tulossa paikalle ensimmäistä kertaa, ota yhteyttä kajozendo@gmail.com (Helsinki) tai kajozendo.turku@gmail.com (Turku). Lappeenrannan
-		viikkoistumiset ovat tauolla.
+		Tällä hetkellä emme tarjoa johdantoja, mutta niitä on suunnitteilla Helsinkiin. Voit saada opastuksen myös tulemalla paikalle viikkoistumiseen 
+		(torstaisin). Jos olet tulossa paikalle ensimmäistä kertaa, ota yhteyttä kajozendo@gmail.com (Helsinki) tai kajozendo.turku@gmail.com (Turku). 
+		Lappeenrannan viikkoistumiset ovat tauolla. 
+		
+		Turun ja Helsingin aikataulut poikkeavat toisistaan hieman, ja tällä sivulla olevat tiedot koskevat
+		ensisijaisesti Helsinkiä. Jos olet kiinnostunut harjoittamaan Turussa, kannattaa katsoa vielä lisätietoja Turku-alasivulta. 
 
 	-mitä zazen on? miten zazenia harjoitetaan?
 		-olemassaolevat zazen-ohjeet voisi jäsennellä omien kysymystensä alle
 	
 	-mikä on zazenkai
+		Zazenkai on yhden päivän aikana suoritettava harjoitus. Zazenkailla istutaan zazenia kaksi kahden tunnin periodia (3x40min). Zazenkaille voi tulla
+		mukaan (tai poistua) periodien välissä pidettävien taukojen aikana. Zazenin päätteeksi ohjelmassa on samu (työ), jonka aikana siivoamme zendon
+		perusteellisesti. Päivän päätteeksi on vuorossa opettajan puhe.
+		
+		Zazenkai järjestetään kerran kuukaudessa sekä Helsingissä että Turussa. Harjoittajalla on mahdollisuus päästä kosketukseen hieman päivittäistä 
+		harjoitusta vaativampaan zazenin istumiseen. Helsingin tilassa on jääkaappi ja mikroaaltouuni ja lähistöltä löytyy kauppa. Turussa on vedenkeitin ja
+		Hesburger.
+			
+		AIKATAULU (Helsingissä, Turun aikataulu löytyy Turku-alasivulta):
+
+		9.00 – 11.20  Zazen
+
+		11.20 – 12.00  Tauko
+
+		12.00 – 14.20 Zazen
+
+		14.20 – 15.00 Samu
+
+		15:00 –  15:30 Opettajan puhe
+
+		Yksi zazen periodi koostuu zazenista (3 x 40min). Zazenien välissä 10 min kinhin (kävelymeditaatio).
+
 	-mikä on sesshin
+		Kajo Zendo järjestää kaksi kertaa vuodessa keväisin ja syksyisin sesshinin. Niiden kesto on tyypillisesti 3-4 vuorokautta ja ne järjestetään maaseudun
+		rauhassa. Sesshinillä on mahdollisuus irtautua hetkeksi arjen kiireistä ja keskittyä harjoittamiseen osana sanghaa. Lisäksi ohjelmassa on 
+		opetuspuheita.
+
+		Sesshinillä harjoitetaan hiljaisuudessa. Päivät koostuvat zazenin istumisesta ja samun (työn) suorittamisesta. Istumme zazenia 6 tuntia päivässä.
+		Työjaksot kestävät noin tunnin kerrallaan. Iltaisin on mahdollisuus halutessaan tehdä ylimääräistä harjoitusta, yazaa. 
+		Iltaisin lämmitetään myös sauna, jossa voi halutessaan käydä.
+
+		Sesshin on harjoituksena intensiivinen. Tämän takia toivomme, että osallistujilla olisi hieman aikaisempaa kokemusta zazenin istumisesta. Olisi hyvä, 
+		jos ainakin yksi zazenkai olisi läpikäyty.
+	
 	-pitääkö minun osallistua zazenkaille tai sesshinille / tuleeko minusta parempi zen-harjoittaja, jos osallistun pitkään harjoitukseen
 
 	-mikä on sangha / sanghan arvo / kannattaako harjoittaa yksin
