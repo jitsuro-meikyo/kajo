@@ -24,23 +24,28 @@ in english
 kyssärit
 	-minkälainen ryhmä kajo zendo on / mitä kajo zendo tarjoaa 
 		Kajo Zendo sai alkunsa vuonna 2009 (vai 2008?). Kajo Zendo tarjoaa mahdollisuuden harjoittaa zenbuddhalaisuutta arkielämän yhteydessä.
+		Ka tarkoittaa “talo” tai “koti”, ja jo tarkoittaa “tavallinen” tai “arkipäiväinen”. Näin ollen Kajo tarkoittaa “arkipäiväistä” tai 
+		“jokapäiväistä elämää”.
+		
+		Kajo Zendo on pieni ryhmä omistautuneita harjoittajia, jotka asuvat eri puolilla. Tällä hetkellä viikottaisia tapaamisia järjestetään Helsingissä ja 
+		Turussa. Kuukausittain järjestetään päivän mittaisia harjoituksia (ks. zazenkai) ja vuosittain kaksi muutaman päivän mittaista retriittiä 
+		(ks.sesshin).
+		
 		Harjoituksen ytimessä on zazen japanilaisen soto-koulukunnan tyyliin. Harjoitus perustuu mestari Dogenin opetuksiin. Soto-perinteen zazenin muoto on 
 		“shikantaza”, joka tarkoittaa kirjaimellisesti ”vain istumista”. Se on todellakin vain pelkkää seinään päin selkä suorana istumista, jossa ei tehdä,
 		eikä tavoitella mitään.
 		
-		Ka tarkoittaa “talo” tai “koti”, ja jo tarkoittaa “tavallinen” tai “arkipäiväinen”. Näin ollen Kajo tarkoittaa “arkipäiväistä” tai 
-		“jokapäiväistä elämää”.
-		
 	-tarjoatteko johdantoja tai muuta opastusta?
-		Tällä hetkellä emme, mutta johdantoja on suunnitteilla. Voit saada opastuksen myös tulemalla paikalle viikkoistumiseen (torstaisin). Jos olet tulossa 
-		paikalle, ota yhteyttä kajozendo@gmail.com (Helsinki) tai kajozendo.turku@gmail.com (Turku). Lappeenrannan viikkoistumiset ovat tauolla.
+		Tällä hetkellä emme tarjoa johdantoja, mutta niitä on suunnitteilla. Voit saada opastuksen myös tulemalla paikalle viikkoistumiseen (torstaisin). Jos
+		olet tulossa paikalle ensimmäistä kertaa, ota yhteyttä kajozendo@gmail.com (Helsinki) tai kajozendo.turku@gmail.com (Turku). Lappeenrannan
+		viikkoistumiset ovat tauolla.
 
 	-mitä zazen on? miten zazenia harjoitetaan?
 		-olemassaolevat zazen-ohjeet voisi jäsennellä omien kysymystensä alle
 	
 	-mikä on zazenkai
 	-mikä on sesshin
-	-pitääkö minun osallistua zazenkaille tai sesshinille
+	-pitääkö minun osallistua zazenkaille tai sesshinille / tuleeko minusta parempi zen-harjoittaja, jos osallistun pitkään harjoitukseen
 
 	-mikä on sangha / sanghan arvo / kannattaako harjoittaa yksin
 	-voinko jotenkin liittyä sanghaan
@@ -49,7 +54,7 @@ kyssärit
 	-onko kysymys uskonnosta tai aatteesta
 	-oletteko buddhalaisia? mihin uskotte?
 	-voinko tulla harjoittamaan vaikka uskon ja/tai ajattelen eri tavalla kuin te
-	-pitääkö minun alkaa ajatella asioista samalla tavalla kuin muiden kävijöiden 	
+	-pitääkö minun alkaa ajatella asioista samalla tavalla kuin muiden zen-harjoittajien? 	
 
 	-mitä voisin lukea, katsoa / mistä lisätietoa
 		-johdatus buddhalaisuuteen pdf
