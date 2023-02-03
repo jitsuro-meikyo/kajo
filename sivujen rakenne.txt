@@ -97,12 +97,11 @@ kyssärit
 		jos ainakin yksi zazenkai olisi läpikäyty.
 	
 	-pitääkö minun osallistua zazenkaille tai sesshinille / tuleeko minusta parempi zen-harjoittaja, jos osallistun pitkään harjoitukseen?
-		Ei pidä eikä tule. Jos olet tehnyt arkipäiväistä harjoitusta jo jonkin aikaa, niin pitempi harjoitus saattaa alkaa kiinnostaa. 
+		Ei pidä eikä tule. Jos olet tehnyt harjoitusta arjessa jo jonkin aikaa, niin pitempi harjoitus saattaa alkaa kiinnostaa. 
 
 	-mikä on sangha / sanghan arvo / kannattaako harjoittaa yksin?
-		Mielenkiintoinen kysymys. Perinteisesti harjoitusta tehdään muiden kanssa. Muiden kanssa harjoittaminen syventää omaa harjoitusta ja tukee sitä. 
-		
-		*****palaan tähän 
+		Mielenkiintoinen kysymys. Sangha on harjoittajien yhteisö. Perinteisesti harjoitusta tehdään muiden kanssa. Muiden kanssa harjoittaminen syventää omaa
+		harjoitusta ja tukee sitä. 
 		
 	-voinko jotenkin liittyä sanghaan?
 		Et. Kajo Zendo ei tarjoa jäsenyyttä tai jäsenetuja. Käymällä paikalla voit tulla tutuksi muiden kanssa. Samasta asiasta kiinnostuneisiin ihmisiin 
@@ -124,7 +123,7 @@ kyssärit
 		Rakkaus on läsnä, usko tai älä.
 	
 	-voinko tulla harjoittamaan vaikka uskon ja/tai ajattelen eri tavalla kuin te
-		Voit. Valmistaudu siihen, että mielipiteitäsi kohtaan ei aina osoiteta erityistä kiinnostusta.
+		Voit. Olit sitten samaa tai eri mieltä, niin valmistaudu siihen, että mielipiteitäsi kohtaan ei aina osoiteta erityistä kiinnostusta.
 		
 	-pitääkö minun alkaa ajatella asioista samalla tavalla kuin muiden zen-harjoittajien? 	
 		Ei, mutta kannattaa kuunnella mitä kokeneemmilla harjoittajilla on sanottavana harjoituksesta. Päteminen on ärsyttävää missä tahansa.
