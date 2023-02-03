@@ -82,13 +82,12 @@ kyssärit
 		Yksi zazen periodi koostuu zazenista (3 x 40min). Zazenien välissä 10 min kinhin (kävelymeditaatio).
 
 	-mikä on sesshin
-		Kajo Zendo järjestää kaksi kertaa vuodessa keväisin ja syksyisin sesshinin. Niiden kesto on tyypillisesti 3-4 vuorokautta ja ne järjestetään maaseudun
-		rauhassa. Sesshinillä on mahdollisuus irtautua hetkeksi arjen kiireistä ja keskittyä harjoittamiseen osana sanghaa. Lisäksi ohjelmassa on 
-		opetuspuheita.
+		Kajo Zendo järjestää kaksi kertaa vuodessa keväisin ja syksyisin sesshinin. Niiden kesto on torstai-illasta sunnuntai-iltapäivään
+		ja ne järjestetään maaseudun rauhassa. Sesshinillä on mahdollisuus irtautua hetkeksi arjen kiireistä ja keskittyä harjoittamiseen osana sanghaa. 
+		Lisäksi ohjelmassa on opetuspuheita.
 
 		*****dokusaniin on mahdollisuus
-
-		*****rituaalit ja loitsut kuuluu myös sesshinin ohjelmaan
+		***** "rituaalit ja loitsut" kuuluu myös sesshinin ohjelmaan
 		
 		Sesshinillä harjoitetaan hiljaisuudessa. Päivät koostuvat zazenin istumisesta ja samun (työn) suorittamisesta. Istumme zazenia 6 tuntia päivässä.
 		Työjaksot kestävät noin tunnin kerrallaan. Iltaisin on mahdollisuus halutessaan tehdä ylimääräistä harjoitusta, yazaa. 
@@ -110,13 +109,13 @@ kyssärit
 		tutustumisessa on mukavia puolia.
 		
 	-mitä harjoittaminen maksaa?
-		Harjoittaminen ei maksa sinulle mitään, mutta voit osallistua vuokrakulujen kattamiseen pienellä lahjoituksella, esim 5-10 euroa kerta. 
+		Harjoittaminen ei maksa sinulle mitään, mutta voit osallistua vuokrakulujen kattamiseen pienellä lahjoituksella, esim. 5-10 euroa kerta. 
 		Sesshinistä peritään maksu, jolla katetaan vuokrakulut ja ruoka sekä maksetaan mahdolliselle vierailevalle opettajalle. 
 
 	-onko kysymys uskonnosta tai aatteesta
 		Ei varsinaisesti. Ei ole mitään ideaa, johon kaikkien harjoittajien pitäisi uskoa. Toisaalta jos et luota tai usko siihen, että shikantazalla
-		on jotain arvoa, voi olla vaikeaa pitää yllä harjoitusta. Myös tietyt uskonnollisen oloiset muodolliset piirteet (suutrien lausuminen, vaatetus
-		kumarrukset) kuuluvat siihen mitä teemme, joten siinä mielessä voi sanoa että harjoituksessa on jotain uskonnollisia piirteitä.
+		on jotain arvoa, voi olla vaikeaa pitää yllä harjoitusta. Myös tietyt uskonnollisen oloiset muodolliset piirteet (suutrien lausuminen, vaatetus,
+		kumarrukset) kuuluvat siihen mitä teemme, joten siinä mielessä voi sanoa että harjoituksessa on jotain uskonnollista.
 		
 	-oletteko buddhalaisia? mihin uskotte?
 		So many questions, so little time. Kajo Zendon harjoitus pohjautuu buddhalaiseen perinteeseen. Jokainen harjoittaja uskoo mihin uskoo.
